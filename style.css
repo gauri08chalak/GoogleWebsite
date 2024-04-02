@@ -1,0 +1,27 @@
+body {
+    background-image: url('img1.webp'); 
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    padding: 200px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    background-color: white;
+    color: black;
+}
